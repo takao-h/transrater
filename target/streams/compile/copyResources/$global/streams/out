@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/ruth/Dev/transrater/conf/logback.xml,/Users/ruth/Dev/transrater/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ruth/Dev/transrater/conf/application.conf,/Users/ruth/Dev/transrater/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ruth/Dev/transrater/conf/routes,/Users/ruth/Dev/transrater/target/scala-2.11/classes/routes)[0m
